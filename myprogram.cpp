@@ -2,4 +2,6 @@
 void main()
 {
 cout<<"hai";
+  cou<<"hello";
+  
 }
